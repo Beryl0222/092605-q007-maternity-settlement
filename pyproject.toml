@@ -1,0 +1,9 @@
+[project]
+name = "maternity-settlement"
+version = "0.1.0"
+description = "住院分娩保障结算的服务端基础"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
